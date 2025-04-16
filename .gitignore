@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+logs/
+unknown_faces/
+known_faces/
+config.json
